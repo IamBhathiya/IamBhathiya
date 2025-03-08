@@ -2,7 +2,7 @@
 
 **I'm Bhathiya, a passionate developer and tech enthusiast who loves building innovative solutions and learning new technologies** . 
 
-Here are some ideas to get you started:
+### 🚀 About Me  
 
 - 🔭 I’m currently working on a **Resource Management System for the Faculty of Arts, University of Peradeniya**.  
 - 🌱 I’m currently learning **advanced web development, cloud computing, and AI integration**.  
