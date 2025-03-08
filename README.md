@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm Bhathiya, a passionate developer and tech enthusiast who loves building innovative solutions and learning new technologies.  
+**I'm Bhathiya, a passionate developer and tech enthusiast who loves building innovative solutions and learning new technologies. ** 
 
 Here are some ideas to get you started:
 
