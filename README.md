@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **I'm Bhathiya, a passionate developer and tech enthusiast who loves building innovative solutions and learning new technologies.  
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **[bhathiyathiwanka019@gmail.com]  [linkedin.com/in/bhathiya-piyathissa-4b12a5245] 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
